@@ -16,7 +16,7 @@ The notebook delivers insights into **movie trends, ratings, box office performa
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 - **Language**: Python  
 - **Notebook**: Jupyter Notebook  
 - **Libraries**:  
