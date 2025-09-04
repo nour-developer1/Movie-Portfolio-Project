@@ -23,5 +23,5 @@ The notebook delivers insights into **movie trends, ratings, box office performa
   - Pandas – data wrangling  
   - NumPy – numerical analysis  
   - Matplotlib, Seaborn – visualization  
-  - (Optional) SciPy/Statsmodels – statistical insights  
+  - SciPy/Statsmodels – statistical insights  
 
